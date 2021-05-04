@@ -10,6 +10,12 @@ So instead of following the suggested SAPY (sugar, agar, peptone, yeast extract)
 
 I forgot to bring the baker's yeast with me to the lab, so while autoclaving a new mixture of LBA + charcoal (2g/L), I used prepared plates of LBA (which don't have enough charcoal to see much) and LBA with antibiotic [2].
 
+//
+
+I didn't follow the instructed UV set-up too closely. My specs are UV LED 1W, 395nm, 3.0-3.4V, 300mA, 10-15Lm; this is in a series of 3 [3]. I will wait to see these results, before I make changes.
+
 
 [1] refer to pavillon_35_recipe_1_yeast_print_s.pdf
 [2] details to be updated
+[3] refer to initial_setup.jpg
+
