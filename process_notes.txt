@@ -1,0 +1,15 @@
+#PROCESS JOURNAL
+
+210504
+It seemed really promising to find the process manual from pavillion_35 (artist collective based in Vienna)[1], but upon closer inspection, some of the details seemed overcomplicated and unnecessary.
+
+To be fair, it is meant to be an accessible process, using ingredients that can be "easily found", ie. Marmite, beef boullion. However, in my current country, Marmite is absolutely scarce. In terms of accessibility (to raw materials and equipment), this obviously varies with locale.
+
+So instead of following the suggested SAPY (sugar, agar, peptone, yeast extract) solution, I went with LBA (lysogeny broth, agar).
+
+
+I forgot to bring the baker's yeast with me to the lab, so while autoclaving a new mixture of LBA + charcoal (2g/L), I used prepared plates of LBA (which don't have enough charcoal to see much) and LBA with antibiotic [2].
+
+
+[1] refer to pavillon_35_recipe_1_yeast_print_s.pdf
+[2] details to be updated
