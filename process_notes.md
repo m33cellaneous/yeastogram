@@ -1,4 +1,4 @@
-#PROCESS JOURNAL
+# PROCESS JOURNAL
 
 
 ### 210504
@@ -18,21 +18,21 @@ I used some leaves as the "image", because I'm waiting for printable transparenc
 
 --
 
-[1] refer to pavillon_35_recipe_1_yeast_print_s.pdf
-[2] Ampicillan
-[3] refer to images/initial_setup.jpg
+[1] refer to pavillon_35_recipe_1_yeast_print_s.pdf <br>
+[2] Ampicillan <br>
+[3] refer to images/initial_setup.jpg <br>
 
 ![Initial Setup](https://github.com/m33cellaneous/yeastogram/images/initial_setup.jpg)
 
 
 ### 210506
-3 plates exposed and left in ambient conditions; ~29'C, diffused light.
-A: LB; UV-exposed 24hrs; 41hrs since.
-B: LB + characoal; UV-exposed 26hrs; 17hrs since
-C: LB + antibiotic; UV-exposed 26hrs; 17hrs since
+3 plates exposed and left in ambient conditions; ~29'C, diffused light. <br>
+A: LB; UV-exposed 24hrs; 41hrs since. <br>
+B: LB + characoal; UV-exposed 26hrs; 17hrs since <br>
+C: LB + antibiotic; UV-exposed 26hrs; 17hrs since <br>
 
-A: white spots appearing within the white haze (exposed parts).
-B: can't really see what has been exposed and what hasn't, because the UV light slipped during exposure. there's also condensation inside the lid, so this isn't too promising.
-C: clear exposed image, no other change so far.
+A: white spots appearing within the white haze (exposed parts). <br>
+B: can't really see what has been exposed and what hasn't, because the UV light slipped during exposure. there's also condensation inside the lid, so this isn't too promising. <br>
+C: clear exposed image, no other change so far. <br>
 
 Again, these tests are priortised for process-determination, as preparations thus far are not adapted for anything visually-appealing. Based on assumptions, of course.
