@@ -10,19 +10,20 @@ Instead of the suggested SAPY (sugar, agar, peptone, yeast extract) solution, I 
 
 I forgot to bring the baker's yeast with me to the lab, so while autoclaving a new mixture of LBA + charcoal (2g/L), I used already-prepared plates of LBA (which don't have enough charcoal to see much) and LBA with antibiotics [2]. I flooded the plates with a solution of baker's yeast and filter-sterilised water (.4g/50ml).
 
---
+<p>
 
 I didn't follow the instructed UV set-up too closely. My specs are UV LED 1W, 395nm, 3.0-3.4V, 300mA, 10-15Lm; this is in a series of 3 [3]. I will wait to see these results, before I make changes.
 
 I used some leaves as the "image", because I'm waiting for printable transparencies to arrive. Those are rather difficult to find around here as well.
 
---
+<p>
 
 [1] refer to pavillon_35_recipe_1_yeast_print_s.pdf <br>
 [2] Ampicillan <br>
-[3] refer to images/initial_setup.jpg <br>
+[3] refer to ![image of Initial Setup](https://github.com/m33cellaneous/yeastogram/images/initial_setup.jpg)
 
-![Initial Setup](https://github.com/m33cellaneous/yeastogram/images/initial_setup.jpg)
+
+---
 
 
 ### 210506
@@ -36,3 +37,30 @@ B: can't really see what has been exposed and what hasn't, because the UV light 
 C: clear exposed image, no other change so far. <br>
 
 Again, these tests are priortised for process-determination, as preparations thus far are not adapted for anything visually-appealing. Based on assumptions, of course.
+
+
+---
+
+
+### 210511
+![A](https://github.com/m33cellaneous/yeastogram/images/210508-A.jpg)
+![B](https://github.com/m33cellaneous/yeastogram/images/210508-B.jpg)
+![C](https://github.com/m33cellaneous/yeastogram/images/210508-C.jpg)
+
+
+---
+
+
+### 210511
+
+![None of this](https://github.com/m33cellaneous/yeastogram/images/210511-ABC.jpg) appear successful; and if you're wondering what this *should* look like, the answer is *something more interesting than this*.
+<p>
+Well, who knows, maybe they will be scientifically interesting. I'll go check these under a microscope.
+<p>
+
+
+---
+
+
+
+
